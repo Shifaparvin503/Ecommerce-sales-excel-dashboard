@@ -115,6 +115,11 @@ Analyzes:
 - Timeline
 - Excel Formulas
 - Dashboard Design
+  
+### Raw Data
+
+![Raw Data](rawdata.jpg)
+
 
 ## 📷 Dashboard Preview
 
