@@ -118,7 +118,7 @@ Analyzes:
   
 ### Raw Data
 
-![Raw Data](rawdata.jpg)
+![Raw Data](raw_data.jpg)
 
 
 ## 📷 Dashboard Preview
