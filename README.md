@@ -1,10 +1,26 @@
-# E-Commerce Sales Analysis Dashboard
+# E-Commerce Sales & Customer Analytics Dashboard
 
 ## 📊 Project Overview
 
-This project is an interactive **E-Commerce Sales Analysis Dashboard **.
+Build an interactive **E-Commerce Sales & Customer Analytics Dashboard** using Microsoft Excel 2024 that allows management to monitor:
 
-The dashboard provides insights into sales, profit, customers, products, discounts, payment methods, and sales channels.
+- Sales Performance
+- Customer Behavior
+- Product Performance
+- Regional Performance
+- Discounts
+- Profitability
+- Order Trends
+
+The dashboard helps an e-commerce company identify:
+
+- Best-selling products
+- High-value customers
+- Profitable categories
+- Poor-performing regions
+- Monthly sales trends
+- Discount impact
+- Return and cancellation patterns
 
 ## 📑 Dashboard Pages
 
@@ -20,21 +36,21 @@ Provides an overall summary of business performance, including:
 - Profit Margin
 - Average Order Value
 - Return Rate
-- Region
-- Category
+- Regional Performance
+- Category Performance
 - Payment Method
 - Order Status
-
 
 ### 2. Trend & Category
 
 Analyzes:
 
-- Monthly Sales
+- Monthly Sales Trends
 - Monthly Profit
 - Sales Growth %
 - Category Sales
 - Category Profit
+- Order Trends
 
 ### 3. Products
 
@@ -42,8 +58,8 @@ Analyzes:
 
 - Top 10 Products
 - Bottom 10 Products
-- Sales
-- Profit
+- Product Sales
+- Product Profit
 - Units Sold
 
 ### 4. Customers
@@ -53,17 +69,19 @@ Analyzes:
 - Top 10 Customers
 - Customer Sales
 - Number of Orders
-- Average Sales
+- Average Order Value
+- High-Value Customers
 
 ### 5. Discount & Channels
 
 Analyzes:
 
+- Discount Impact
 - Sales Channel Performance
 - Payment Method Performance
-- Discount
 - Sales
 - Profit Margin
+- Order Performance
 
 ## 🎛️ Interactive Features
 
@@ -128,4 +146,4 @@ Analyzes:
 
 ## 🎯 Project Objective
 
-The objective of this project is to transform e-commerce sales data into an interactive Excel dashboard that helps analyze business performance and supports data-driven decision making.
+The dashboard is designed to support management in making data-driven decisions by providing a clear view of sales, customers, products, regions, discounts, profitability, and order performance.
